@@ -1,3 +1,3 @@
-# my-nwb-app
+# Simple React Shopping Cart
 
-Describe my-nwb-app here.
+Based on an interview task.
